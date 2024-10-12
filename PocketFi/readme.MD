@@ -12,6 +12,10 @@
 
 To get started with the bot, follow these steps:
 
+0. **Dowload NodeJS to run the bot**
+
+-> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
+
 1. **Install Dependencies and Modules:**
 
    ```
