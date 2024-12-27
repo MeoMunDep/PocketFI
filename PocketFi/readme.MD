@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](t.me/pocketfi_bot/Mining?startapp=6713068747)
+> > > Help me with your referral [Link](https://t.me/pocketfi_bot/Mining?startapp=6713068747)
 
 ## 🚀 Getting Started
 
