@@ -1,5 +1,5 @@
 @echo off
-title Pocketfi Bot
+title Pocketfi Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Pocketfi BOT SETUP AND RUN SCRIPT
+echo    Pocketfi BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -82,7 +82,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd pocketfi && node bot
+node MeoMunDep
 pause
 goto MENU
 
