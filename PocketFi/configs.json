@@ -2,5 +2,10 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "delayEachAccount": [5, 8]
+  "delayEachAccount": [1, 1],
+  "doTasks": true,
+
+  "staking": false,
+  "amoutOfStakes": 450,
+  "period": "3m"
 }
